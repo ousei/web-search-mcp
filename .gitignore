@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+web_search.log
+.pytest_cache/
+.zsh_history
+
