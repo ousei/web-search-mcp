@@ -5,3 +5,34 @@ web_search.log
 .pytest_cache/
 .zsh_history
 
+
+# --- added by Grok Bot ---
+node_modules/
+venv/
+.venv/
+__pycache__/
+*.pyc
+build/
+dist/
+.gradle/
+Pods/
+DerivedData/
+xcuserdata/
+.DS_Store
+*.apk
+*.aab
+*.ipa
+*.log
+logs/
+.env
+.env.*
+*.pem
+*.key
+*.p12
+*.p8
+*.mobileprovision
+GoogleService-Info.plist
+credentials*.json
+token*.json
+client_secret*.json
+service-account*.json
